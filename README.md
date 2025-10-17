@@ -6,8 +6,7 @@
 by GerardMA95
 </h2>
 <p align="center">
-    <a href="https://symfony.com/"><img src="https://img.shields.io/badge/symfony-7-blue?style=for-the-badge&logo=symfony
-" alt="Symfony 7"/></a>
+    <a href="https://symfony.com/"><img src="https://img.shields.io/badge/symfony-7-blue?style=for-the-badge&logo=symfony" alt="Symfony 7"/></a>
 </p>
 
 <p align="center">
