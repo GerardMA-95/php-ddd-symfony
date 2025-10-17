@@ -1,0 +1,45 @@
+/.env.local
+/.env.*.local
+/.env
+
+/apps/*/*/var/
+!/apps/*/*/var/.gitkeep
+
+/apps/*/*/build/
+!/apps/*/*/build/supervisor/.gitkeep
+
+/vendor/
+.phpunit.result.cache
+
+/build
+
+.php-cs-fixer.cache
+
+# PhpStorm / JetBrains IDEs
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# NetBeans
+nbproject/
+nbbuild/
+dist/
+nbdist/
+build.xml
+manifest.mf
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Eclipse / PDT
+.project
+.buildpath
+.settings/
+
+# MacOS / Windows system files
+.DS_Store
+Thumbs.db
